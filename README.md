@@ -9,6 +9,8 @@ The dataset for Flower Recognition was downloaded from [Kaggle](https://www.kagg
 	Total Images: 4242
 	Number of Classes: 5
 
+![](https://github.com/Nahid1992/ImageClassification--FlowerRecognition_TFLearn/blob/master/ScreenShots/Flowers.png)
+
 #### Class Labels:
 	* chamomile 
 	* tulip 
