@@ -22,3 +22,8 @@ The dataset for Flower Recognition was downloaded from [Kaggle](https://www.kagg
 * TFLearn
 
 ### Screenshots of Performance
+#### Accuracy: Epoch_20 - ConvLayer_1
+![](https://github.com/Nahid1992/ImageClassification--FlowerRecognition_TFLearn/blob/master/ScreenShots/1_Conv2_Accuracy.png)
+#### Accuracy: Epoch_40 - ConvLayer_2
+![](https://github.com/Nahid1992/ImageClassification--FlowerRecognition_TFLearn/blob/master/ScreenShots/2_conv2_epoch40.png)
+
